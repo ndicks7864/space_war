@@ -1,23 +1,17 @@
-# xBox360 Controller for Python3 with Pygame
+# The Alien Invansion
 
-This is a unified XBox360 wired controller module for use with Python3 and Pygame. It allows for games be developed and played cross-platform without worrying about how axes and buttons are mapped on different OSs. The syntax is nearly identical to that used for dealing with the keyboard in Pygame so it should be simple and familiar to use.
+background - story
 
-## Requirements
+## Instructions/Requirements to Play
+defeat the alien mob/ xbox360 controller
+## Playing the game
 
-On Linux and Windows systems, only Python 3 with Pygame is needed.
+### Buttons to Use
 
-Mac OSX does not have native controller support so the a driver is needed.
+## Scoring
 
-For Mac OS 10.10 (Yosemite) and later, use the driver [360Controller](https://github.com/360Controller/360Controller).
 
-Earlier versions of Mac OS may work with the original driver from [Tattiebogle](http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver). However this driver is no longer maintained.
-
-#### Tested on:
-
-- Python 3.4.3 & 3.5.2 with Pygame 1.9.2, SDL (1, 2, 15)
-- Ubuntu 15.04 & 16.04, Windows 7 & 8, Mac OS 10.9.5, 10.10.5.
-
-## Usage
+### Credits
 
 1. Download the `xbox360controller` class to your project folder and import into your game.
 
