@@ -1,0 +1,4 @@
+Alien Invasion!!
+Press space to start then try to kill the entire mob, but be careful! if you get hit 5 times its game over!
+
+To restart game press space once end screen is shown
