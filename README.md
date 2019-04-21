@@ -31,8 +31,8 @@ By collecting one of these power-ups you regain full life to your ship
 You can lose lives by hitting a mob or by getting hit by a mob laser
 
 ## Credits
-Website: https://www.kenney.nl/ (used for photos in game)
-Music: https://youtu.be/_D0ZQPqeJkk (star wars)
+- Website: https://www.kenney.nl/ (used for photos in game)
+- Music: https://youtu.be/_D0ZQPqeJkk (star wars)
 
 ## Files:
 - download link
