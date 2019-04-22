@@ -37,9 +37,6 @@ You can lose lives by hitting a mob or by getting hit by a mob laser
 - Website: https://www.kenney.nl/ (used for photos in game)
 - Music: https://youtu.be/_D0ZQPqeJkk (star wars)
 
-## Download Files:
-- [link to download files!](https://github.com/ndicks7864/space_war/archive/master.zip)
-
 ## Author
 
 Nia D. made this. She hopes you use it to make something cool.
