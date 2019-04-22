@@ -12,8 +12,10 @@ Score as many points as you can by killing all of the bad alien mobs before gett
 Instructions
 ### Starting the game:
 - Press space bar on the keyboard or start button on the Xbox controller to begin the game
+
 ### Quitting:
 - Press the X with your mouse or escape button on the keyboard to end the game
+
 ### Controls:
 - Use the kayboard use the arrow keys or the left joystick on the xbox controller to move around the screen
 - Press space or A to get your ship to shoot
@@ -21,10 +23,13 @@ Instructions
 ## Scoring
 ### Getting coins
 You can get up to a total of 42 points by killing all mobs
+
 ### Losing coins
 You can lose coins but getting hit by mob lasers
+
 ### Getting Lives/Power-ups
 By collecting one of these power-ups you regain full life to your ship
+
 ### Losing lives
 You can lose lives by hitting a mob or by getting hit by a mob laser
 
@@ -32,7 +37,7 @@ You can lose lives by hitting a mob or by getting hit by a mob laser
 - Website: https://www.kenney.nl/ (used for photos in game)
 - Music: https://youtu.be/_D0ZQPqeJkk (star wars)
 
-## Files:
+## Download Files:
 - https://github.com/ndicks7864/space_war/archive/master.zip
 
 ## Author
