@@ -23,8 +23,7 @@ press space or A to get your ship to shoot
 You can get up to a total of 42 points by killing all mobs
 - Losing coins
 You can lose coins but getting hit by mob lasers
-### Ship Life
-- Power-ups
+- Getting Lives/Power-ups
 By collecting one of these power-ups you regain full life to your ship
 - Losing lives
 You can lose lives by hitting a mob or by getting hit by a mob laser
