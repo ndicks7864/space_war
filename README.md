@@ -44,6 +44,4 @@ Nia D. made this. She hopes you use it to make something cool.
 This project is distributed under the [MIT License](LICENSE.md).
 
 ## Acknowledgments
-
-- Thanks to [Jordan](https://github.com/johoule) and Nathan for doing the testing on Macs.
-- Thanks to [Max](https://github.com/DovahRahDoLu) for testing with wireless controllers on Windows.
+- Thanks Mr. Cooper for teaching us to code
