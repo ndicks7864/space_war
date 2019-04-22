@@ -1,4 +1,3 @@
-# The Alien Invansion
 There once was an alien who said he would defeat all the bad aliens. So he went out cleaned his ship and set forth on a mission to save everyone from the bad aliens!!!
 
 ![alien_cover](https://user-images.githubusercontent.com/31481528/56475548-a5e9b500-6457-11e9-91b0-db91e1964d59.PNG)
